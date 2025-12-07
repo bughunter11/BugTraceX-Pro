@@ -1,15 +1,15 @@
 {
-    "VIP1-W4I0-FZJP-FZ-376": {
+    "VIP1-Y3O1-JLEC-FZ-376": {
         "status": "ACTIVE",
-        "device": "99F8641944356C3418"
+        "device": "NONE"
     },
-    "VIP2-SS5M-0BG8-MB-KL6": {
-        "status": "BANNED",
-        "device": "EB8B3F482248E4F891"
+    "VIP2-BQZM-PDBA-MB-KL6": {
+        "status": "ACTIVE",
+        "device": "NONE"
     },
     "VIP3-KI9Q-MJFP-FO-B6O": {
-        "status": "BANNED",
-        "device": "0BD8A9405487485880"
+        "status": "ACTIVE",
+        "device": "NONE"
     },
     "VIP4-US5E-7969-EC-0L8": {
         "status": "ACTIVE",
