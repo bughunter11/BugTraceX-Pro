@@ -1,66 +1,210 @@
 {
-  "VIP1-W4I0-FZJP-FZ-376": { "status": "ACTIVE", "device": "NONE" },
-  "VIP2-SS5M-0BG8-MB-KL6": { "status": "ACTIVE", "device": "NONE" },
-  "VIP3-KI9Q-MJFP-FO-B6O": { "status": "ACTIVE", "device": "NONE" },
-  "VIP4-US5E-7969-EC-0L8": { "status": "ACTIVE", "device": "NONE" },
-  "VIP5-JR4Z-V52Z-5E-AJZ": { "status": "ACTIVE", "device": "NONE" },
-  "VIP6-Y30Y-5XBX-GQ-BXS": { "status": "ACTIVE", "device": "NONE" },
-  "VIP7-C2W1-E342-KU-08Q": { "status": "ACTIVE", "device": "NONE" },
-  "VIP8-Z3R4-Y029-6R-DD7": { "status": "ACTIVE", "device": "NONE" },
-  "VIP9-SF41-HR2V-9T-QM2": { "status": "ACTIVE", "device": "NONE" },
-  "VIP10-5QJH-V8RX-1N-546": { "status": "ACTIVE", "device": "NONE" },
-
-  "VIP11-HZRD-KGJK-K5-F1A": { "status": "ACTIVE", "device": "NONE" },
-  "VIP12-D9Y8-XZST-4I-V03": { "status": "ACTIVE", "device": "NONE" },
-  "VIP13-1CF0-F6C1-NN-3L5": { "status": "ACTIVE", "device": "NONE" },
-  "VIP14-VUIM-QGTE-8G-BKE": { "status": "ACTIVE", "device": "NONE" },
-  "VIP15-KR5Q-NG0B-WI-XJ2": { "status": "ACTIVE", "device": "NONE" },
-  "VIP16-XJ3V-Q00E-Y8-N3Y": { "status": "ACTIVE", "device": "NONE" },
-  "VIP17-NXGZ-4TL5-BP-89K": { "status": "ACTIVE", "device": "NONE" },
-  "VIP18-XMZH-FBP6-HY-M1V": { "status": "ACTIVE", "device": "NONE" },
-  "VIP19-7G5C-ZZJF-EQ-V41": { "status": "ACTIVE", "device": "NONE" },
-  "VIP20-6NTL-01D6-7R-5CG": { "status": "ACTIVE", "device": "NONE" },
-
-  "VIP21-DH2A-2PCA-F0-73G": { "status": "ACTIVE", "device": "NONE" },
-  "VIP22-SGL9-CC7U-YP-TC9": { "status": "ACTIVE", "device": "NONE" },
-  "VIP23-EHAC-KA0I-CP-5Q2": { "status": "ACTIVE", "device": "NONE" },
-  "VIP24-X1I7-DVHF-2F-JJX": { "status": "ACTIVE", "device": "NONE" },
-  "VIP25-SLEC-12SR-1L-GLM": { "status": "ACTIVE", "device": "NONE" },
-  "VIP26-VNW4-1M9H-QL-IK2": { "status": "ACTIVE", "device": "NONE" },
-  "VIP27-N23B-TL5Z-K9-0LZ": { "status": "ACTIVE", "device": "NONE" },
-  "VIP28-C17B-DF83-ZV-6HQ": { "status": "ACTIVE", "device": "NONE" },
-  "VIP29-KLFR-7VUC-Z0-7IA": { "status": "ACTIVE", "device": "NONE" },
-  "VIP30-SASQ-9RE0-9Z-3AV": { "status": "ACTIVE", "device": "NONE" },
-
-  "VIP31-0OCH-8VKP-GT-T5H": { "status": "ACTIVE", "device": "NONE" },
-  "VIP32-NNVA-ZCG6-X5-UAP": { "status": "ACTIVE", "device": "NONE" },
-  "VIP33-NVP5-LFUN-6U-87G": { "status": "ACTIVE", "device": "NONE" },
-  "VIP34-SDTE-MMDP-7R-HR5": { "status": "ACTIVE", "device": "NONE" },
-  "VIP35-ZUOE-BF2U-ZQ-185": { "status": "ACTIVE", "device": "NONE" },
-  "VIP36-54HJ-FSVG-L7-4PC": { "status": "ACTIVE", "device": "NONE" },
-  "VIP37-LZJ9-T2BL-2Y-0QK": { "status": "ACTIVE", "device": "NONE" },
-  "VIP38-R9DC-S9MK-RO-H6E": { "status": "ACTIVE", "device": "NONE" },
-  "VIP39-MWIV-B6LQ-Y1-ZBS": { "status": "ACTIVE", "device": "NONE" },
-  "VIP40-5UKH-GJQS-JH-STY": { "status": "ACTIVE", "device": "NONE" },
-
-  "VIP41-MY76-SIPX-OJ-EMM": { "status": "ACTIVE", "device": "NONE" },
-  "VIP42-E8N4-VO1X-D9-8EX": { "status": "ACTIVE", "device": "NONE" },
-  "VIP43-LSFS-VMIZ-VQ-Y8F": { "status": "ACTIVE", "device": "NONE" },
-  "VIP44-KSN3-Z32V-R7-WJ0": { "status": "ACTIVE", "device": "NONE" },
-  "VIP45-XF81-ZQJD-94-9IY": { "status": "ACTIVE", "device": "NONE" },
-  "VIP46-2RHB-D1QM-2E-ZYF": { "status": "ACTIVE", "device": "NONE" },
-  "VIP47-FMQH-4OHF-GF-12Z": { "status": "ACTIVE", "device": "NONE" },
-  "VIP48-CN6F-F7BY-M4-O87": { "status": "ACTIVE", "device": "NONE" },
-  "VIP49-GVHT-83LE-RR-92N": { "status": "ACTIVE", "device": "NONE" },
-  "VIP50-8FDU-ASHQ-GF-IML": { "status": "ACTIVE", "device": "NONE" },
-
-  "META": {
-    "TYPE": "VIP_LICENSE",
-    "COUNT": 50,
-    "DEV": "@raj_maker",
-    "NOTE": "Device Auto-Lock After First Use"
-  },
-
-  "blocked_devices": [],
-  "blocked_keys": []
+    "VIP1-W4I0-FZJP-FZ-376": {
+        "status": "ACTIVE",
+        "device": "DE2A111F77ED6E4151"
+    },
+    "VIP2-SS5M-0BG8-MB-KL6": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP3-KI9Q-MJFP-FO-B6O": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP4-US5E-7969-EC-0L8": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP5-JR4Z-V52Z-5E-AJZ": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP6-Y30Y-5XBX-GQ-BXS": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP7-C2W1-E342-KU-08Q": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP8-Z3R4-Y029-6R-DD7": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP9-SF41-HR2V-9T-QM2": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP10-5QJH-V8RX-1N-546": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP11-HZRD-KGJK-K5-F1A": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP12-D9Y8-XZST-4I-V03": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP13-1CF0-F6C1-NN-3L5": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP14-VUIM-QGTE-8G-BKE": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP15-KR5Q-NG0B-WI-XJ2": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP16-XJ3V-Q00E-Y8-N3Y": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP17-NXGZ-4TL5-BP-89K": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP18-XMZH-FBP6-HY-M1V": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP19-7G5C-ZZJF-EQ-V41": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP20-6NTL-01D6-7R-5CG": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP21-DH2A-2PCA-F0-73G": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP22-SGL9-CC7U-YP-TC9": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP23-EHAC-KA0I-CP-5Q2": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP24-X1I7-DVHF-2F-JJX": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP25-SLEC-12SR-1L-GLM": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP26-VNW4-1M9H-QL-IK2": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP27-N23B-TL5Z-K9-0LZ": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP28-C17B-DF83-ZV-6HQ": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP29-KLFR-7VUC-Z0-7IA": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP30-SASQ-9RE0-9Z-3AV": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP31-0OCH-8VKP-GT-T5H": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP32-NNVA-ZCG6-X5-UAP": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP33-NVP5-LFUN-6U-87G": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP34-SDTE-MMDP-7R-HR5": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP35-ZUOE-BF2U-ZQ-185": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP36-54HJ-FSVG-L7-4PC": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP37-LZJ9-T2BL-2Y-0QK": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP38-R9DC-S9MK-RO-H6E": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP39-MWIV-B6LQ-Y1-ZBS": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP40-5UKH-GJQS-JH-STY": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP41-MY76-SIPX-OJ-EMM": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP42-E8N4-VO1X-D9-8EX": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP43-LSFS-VMIZ-VQ-Y8F": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP44-KSN3-Z32V-R7-WJ0": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP45-XF81-ZQJD-94-9IY": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP46-2RHB-D1QM-2E-ZYF": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP47-FMQH-4OHF-GF-12Z": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP48-CN6F-F7BY-M4-O87": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP49-GVHT-83LE-RR-92N": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "VIP50-8FDU-ASHQ-GF-IML": {
+        "status": "ACTIVE",
+        "device": "NONE"
+    },
+    "META": {
+        "TYPE": "VIP_LICENSE",
+        "COUNT": 50,
+        "DEV": "@raj_maker",
+        "NOTE": "Device Auto-Lock After First Use"
+    },
+    "blocked_devices": [],
+    "blocked_keys": []
 }
