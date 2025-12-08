@@ -1,7 +1,7 @@
 {
     "keys": {
         "VIP1-W4I0-FZJP-FZ-376": {
-            "status": "ACTIVE",
+            "status": "BANNED",
             "device": "882AD7745AD2B2D5EE"
         },
         "VIP2-SS5M-0BG8-MB-KL6": {
@@ -10,7 +10,7 @@
         },
         "VIP3-KI9Q-MJFP-FO-B6O": {
             "status": "ACTIVE",
-            "device": "NONE"
+            "device": "27A86891B91FE9BBAE"
         },
         "VIP4-US5E-7969-EC-0L8": {
             "status": "ACTIVE",
