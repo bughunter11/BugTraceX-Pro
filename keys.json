@@ -1,7 +1,7 @@
 {
     "keys": {
         "VIP1-BQ17-LQO8-FK-192": {
-            "status": "BANNED",
+            "status": "ACTIVE",
             "device": "0579F88D49B11C091D"
         },
         "VIP2-JHGM-TRW8-MB-KI8": {
@@ -18,11 +18,11 @@
         },
         "VIP5-JR4Z-V52Z-5E-AJZ": {
             "status": "ACTIVE",
-            "device": "CB17120BA253A9AA83"
+            "device": "NONE"
         },
         "VIP6-Y30Y-5XBX-GQ-BXS": {
             "status": "ACTIVE",
-            "device": "85B365F24FF1D0E7C1"
+            "device": "NONE"
         },
         "VIP7-C2W1-E342-KU-08Q": {
             "status": "ACTIVE",
