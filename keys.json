@@ -1,7 +1,7 @@
 {
     "keys": {
         "VIP1-OWH7-YWI8-FZ-092": {
-            "status": "ACTIVE",
+            "status": "BANNED",
             "device": "BDA09764B3E4941044"
         },
         "VIP2-JHGM-TRW8-MB-KI8": {
@@ -202,7 +202,7 @@
         }
     },
     "blocked_devices": [
-        "9C9208ACFE5FC3654C"
+        "E08164187E3173E392"
     ],
     "blocked_keys": [],
     "META": {
