@@ -2,10 +2,10 @@
     "keys": {
         "VIP1-W4I0-FZJP-FZ-376": {
             "status": "BANNED",
-            "device": "0579F88D49B11C091D",
+            "device": "NONE",
             "expiry": {
                 "day": 0,
-                "minute": 2
+                "minute": 0
             },
             "activated_at": 1765280936,
             "expired_at": 1765285492
