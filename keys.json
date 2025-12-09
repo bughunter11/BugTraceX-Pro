@@ -2,15 +2,15 @@
     "keys": {
         "VIP1-BQ17-LQO8-FK-192": {
             "status": "ACTIVE",
-            "device": "0579F88D49B11C091D"
+            "device": "NONE"
         },
         "VIP2-JHGM-TRW8-MB-KI8": {
             "status": "ACTIVE",
-            "device": "0579F88D49B11C091D"
+            "device": "NONE"
         },
         "VIP3-OP2W-MJFP-FO-B1O": {
             "status": "ACTIVE",
-            "device": "0579F88D49B11C091D"
+            "device": "NONE"
         },
         "VIP4-UP9B-7359-EC-0L8": {
             "status": "ACTIVE",
