@@ -2,12 +2,12 @@
     "keys": {
         "VIP1-W4I0-FZJP-FZ-376": {
             "status": "ACTIVE",
-            "device": "NONE",
+            "device": "0579F88D49B11C091D",
             "expiry": {
                 "day": 0,
                 "minute": 0
             },
-            "activated_at": 1765276986
+            "activated_at": 1765280936
         },
         "VIP2-SS5M-0BG8-MB-KL6": {
             "status": "ACTIVE",
@@ -20,12 +20,11 @@
         },
         "VIP3-KI9Q-MJFP-FO-B6O": {
             "status": "ACTIVE",
-            "device": "0579F88D49B11C091D",
+            "device": "NONE",
             "expiry": {
                 "day": 2,
                 "minute": 0
-            },
-            "activated_at": 1765280894
+            }
         },
         "VIP4-US5E-7969-EC-0L8": {
             "status": "ACTIVE",
