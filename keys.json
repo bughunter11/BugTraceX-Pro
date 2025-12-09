@@ -13,7 +13,7 @@
             "status": "ACTIVE",
             "device": "NONE",
             "expiry": {
-                "day": 1,
+                "day": 0,
                 "minute": 0
             },
             "activated_at": 1765279841
