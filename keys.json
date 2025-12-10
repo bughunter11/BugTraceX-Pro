@@ -10,9 +10,9 @@
       },
       "activated_at": 1765349576,
       "activated_date": null,
-      "last_used": 1765350007,
+      "last_used": 1765350121,
       "use_count": 4,
-      "network_fp": "20974d1e527ddf5b",
+      "network_fp": "88eaeb03a4b7fada",
       "ban_reason": null,
       "expired_at": null,
       "expired_date": null,
@@ -894,7 +894,7 @@
     "banned_keys": 0,
     "expired_keys": 0,
     "registered_devices": 0,
-    "last_updated": 1765350007,
+    "last_updated": 1765350121,
     "update_count": 4
   }
 }
