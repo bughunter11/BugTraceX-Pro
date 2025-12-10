@@ -8,11 +8,11 @@
         "minute": 0,
         "hour": 0
       },
-      "activated_at": 1765335393,
+      "activated_at": 1765336425,
       "activated_date": null,
-      "last_used": 1765335393,
-      "use_count": 1,
-      "network_fp": "5453ba4e0ca48e2d",
+      "last_used": 1765336425,
+      "use_count": 2,
+      "network_fp": "003bcc4c87e8b05b",
       "ban_reason": null,
       "expired_at": null,
       "expired_date": null
@@ -888,12 +888,12 @@
   },
   "STATS": {
     "total_keys": 50,
-    "available_keys": 49,
-    "active_keys": 1,
+    "available_keys": 0,
+    "active_keys": 50,
     "banned_keys": 0,
     "expired_keys": 0,
     "registered_devices": 1,
-    "last_updated": 1765335393,
-    "update_count": 1
+    "last_updated": 1765336425,
+    "update_count": 2
   }
 }
