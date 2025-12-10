@@ -1,7 +1,7 @@
 {
   "keys": {
     "VIP1-W4I0-FZJP-FZ-376": {
-      "status": "ACTIVE",
+      "status": "BANNED",
       "device": "4413531AE8FCFCF2406D",
       "expiry": {
         "day": 0,
@@ -22,9 +22,9 @@
       "last_network": "9cf6360a42b00c00",
       "block_attempts": [
         {
-          "timestamp": 1765355598,
+          "timestamp": 1765355687,
           "device": "4413531AE8FC",
-          "network": "542985af5799299e",
+          "network": "ffa72c1b5a983b38",
           "action": "BLOCKED_REACTIVATION"
         }
       ]
