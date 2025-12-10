@@ -2,13 +2,17 @@
   "keys": {
     "VIP1-W4I0-FZJP-FZ-376": {
       "status": "ACTIVE",
-      "device": "NONE",
-      "expiry": { "day": 0, "minute": 0, "hour": 0 },
-      "activated_at": null,
+      "device": "4413531AE8FCFCF2406D",
+      "expiry": {
+        "day": 0,
+        "minute": 0,
+        "hour": 0
+      },
+      "activated_at": 1765335182,
       "activated_date": null,
-      "last_used": null,
-      "use_count": 0,
-      "network_fp": null,
+      "last_used": 1765335182,
+      "use_count": 1,
+      "network_fp": "f3a70249d4ca5807",
       "ban_reason": null,
       "expired_at": null,
       "expired_date": null
@@ -16,7 +20,11 @@
     "VIP2-SS5M-0BG8-MB-KL6": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 1, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 1,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -29,7 +37,11 @@
     "VIP3-KI9Q-MJFP-FO-B6O": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 2, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 2,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -42,7 +54,11 @@
     "VIP4-US5E-7969-EC-0L8": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 0, "minute": 30, "hour": 0 },
+      "expiry": {
+        "day": 0,
+        "minute": 30,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -55,7 +71,11 @@
     "VIP5-JR4Z-V52Z-5E-AJZ": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 10, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 10,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -68,7 +88,11 @@
     "VIP6-Y30Y-5XBX-GQ-BXS": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 0, "minute": 60, "hour": 1 },
+      "expiry": {
+        "day": 0,
+        "minute": 60,
+        "hour": 1
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -81,7 +105,11 @@
     "VIP7-C2W1-E342-KU-08Q": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 3, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 3,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -94,7 +122,11 @@
     "VIP8-Z3R4-Y029-6R-DD7": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 5, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 5,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -107,7 +139,11 @@
     "VIP9-SF41-HR2V-9T-QM2": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 0, "minute": 15, "hour": 0 },
+      "expiry": {
+        "day": 0,
+        "minute": 15,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -120,7 +156,11 @@
     "VIP10-5QJH-V8RX-1N-546": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 0, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 0,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -133,7 +173,11 @@
     "VIP11-HZRD-KGJK-K5-F1A": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 1, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 1,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -146,7 +190,11 @@
     "VIP12-D9Y8-XZST-4I-V03": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 0, "minute": 20, "hour": 0 },
+      "expiry": {
+        "day": 0,
+        "minute": 20,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -159,7 +207,11 @@
     "VIP13-A2B3-C4D5-E6-F7G8": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 0, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 0,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -172,7 +224,11 @@
     "VIP14-H9I0-J1K2-L3-M4N5": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 1, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 1,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -185,7 +241,11 @@
     "VIP15-O6P7-Q8R9-S0-T1U2": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 2, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 2,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -198,7 +258,11 @@
     "VIP16-V3W4-X5Y6-Z7-A8B9": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 0, "minute": 45, "hour": 0 },
+      "expiry": {
+        "day": 0,
+        "minute": 45,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -211,7 +275,11 @@
     "VIP17-C0D1-E2F3-G4-H5I6": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 7, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 7,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -224,7 +292,11 @@
     "VIP18-J7K8-L9M0-N1-O2P3": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 0, "minute": 90, "hour": 1 },
+      "expiry": {
+        "day": 0,
+        "minute": 90,
+        "hour": 1
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -237,7 +309,11 @@
     "VIP19-Q4R5-S6T7-U8-V9W0": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 4, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 4,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -250,7 +326,11 @@
     "VIP20-X1Y2-Z3A4-B5-C6D7": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 6, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 6,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -263,7 +343,11 @@
     "VIP21-E8F9-G0H1-I2-J3K4": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 0, "minute": 25, "hour": 0 },
+      "expiry": {
+        "day": 0,
+        "minute": 25,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -276,7 +360,11 @@
     "VIP22-L5M6-N7O8-P9-Q0R1": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 0, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 0,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -289,7 +377,11 @@
     "VIP23-S2T3-U4V5-W6-X7Y8": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 1, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 1,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -302,7 +394,11 @@
     "VIP24-Z9A0-B1C2-D3-E4F5": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 0, "minute": 35, "hour": 0 },
+      "expiry": {
+        "day": 0,
+        "minute": 35,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -315,7 +411,11 @@
     "VIP25-G6H7-I8J9-K0-L1M2": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 8, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 8,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -328,7 +428,11 @@
     "VIP26-N3O4-P5Q6-R7-S8T9": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 0, "minute": 120, "hour": 2 },
+      "expiry": {
+        "day": 0,
+        "minute": 120,
+        "hour": 2
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -341,7 +445,11 @@
     "VIP27-U0V1-W2X3-Y4-Z5A6": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 9, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 9,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -354,7 +462,11 @@
     "VIP28-B7C8-D9E0-F1-G2H3": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 11, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 11,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -367,7 +479,11 @@
     "VIP29-I4J5-K6L7-M8-N9O0": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 0, "minute": 40, "hour": 0 },
+      "expiry": {
+        "day": 0,
+        "minute": 40,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -380,7 +496,11 @@
     "VIP30-P1Q2-R3S4-T5-U6V7": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 0, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 0,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -393,7 +513,11 @@
     "VIP31-W8X9-Y0Z1-A2-B3C4": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 1, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 1,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -406,7 +530,11 @@
     "VIP32-D5E6-F7G8-H9-I0J1": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 0, "minute": 50, "hour": 0 },
+      "expiry": {
+        "day": 0,
+        "minute": 50,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -419,7 +547,11 @@
     "VIP33-K2L3-M4N5-O6-P7Q8": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 12, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 12,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -432,7 +564,11 @@
     "VIP34-R9S0-T1U2-V3-W4X5": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 0, "minute": 180, "hour": 3 },
+      "expiry": {
+        "day": 0,
+        "minute": 180,
+        "hour": 3
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -445,7 +581,11 @@
     "VIP35-Y6Z7-A8B9-C0-D1E2": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 13, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 13,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -458,7 +598,11 @@
     "VIP36-F3G4-H5I6-J7-K8L9": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 14, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 14,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -471,7 +615,11 @@
     "VIP37-M0N1-O2P3-Q4-R5S6": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 0, "minute": 55, "hour": 0 },
+      "expiry": {
+        "day": 0,
+        "minute": 55,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -484,7 +632,11 @@
     "VIP38-T7U8-V9W0-X1-Y2Z3": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 0, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 0,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -497,7 +649,11 @@
     "VIP39-A4B5-C6D7-E8-F9G0": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 1, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 1,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -510,7 +666,11 @@
     "VIP40-H1I2-J3K4-L5-M6N7": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 0, "minute": 10, "hour": 0 },
+      "expiry": {
+        "day": 0,
+        "minute": 10,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -523,7 +683,11 @@
     "VIP41-O8P9-Q0R1-S2-T3U4": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 15, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 15,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -536,7 +700,11 @@
     "VIP42-V5W6-X7Y8-Z9-A0B1": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 0, "minute": 240, "hour": 4 },
+      "expiry": {
+        "day": 0,
+        "minute": 240,
+        "hour": 4
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -549,7 +717,11 @@
     "VIP43-C2D3-E4F5-G6-H7I8": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 16, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 16,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -562,7 +734,11 @@
     "VIP44-J9K0-L1M2-N3-O4P5": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 17, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 17,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -575,7 +751,11 @@
     "VIP45-Q6R7-S8T9-U0-V1W2": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 0, "minute": 5, "hour": 0 },
+      "expiry": {
+        "day": 0,
+        "minute": 5,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -588,7 +768,11 @@
     "VIP46-X3Y4-Z5A6-B7-C8D9": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 0, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 0,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -601,7 +785,11 @@
     "VIP47-E0F1-G2H3-I4-J5K6": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 1, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 1,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -614,7 +802,11 @@
     "VIP48-L7M8-N9O0-P1-Q2R3": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 0, "minute": 70, "hour": 1 },
+      "expiry": {
+        "day": 0,
+        "minute": 70,
+        "hour": 1
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -627,7 +819,11 @@
     "VIP49-S4T5-U6V7-W8-X9Y0": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 18, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 18,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -640,7 +836,11 @@
     "VIP50-Z1A2-B3C4-D5-E6F7": {
       "status": "ACTIVE",
       "device": "NONE",
-      "expiry": { "day": 20, "minute": 0, "hour": 0 },
+      "expiry": {
+        "day": 20,
+        "minute": 0,
+        "hour": 0
+      },
       "activated_at": null,
       "activated_date": null,
       "last_used": null,
@@ -651,12 +851,10 @@
       "expired_date": null
     }
   },
-  
   "blocked_devices": [],
   "blocked_keys": [],
   "blocked_networks": [],
   "allowed_ips": [],
-  
   "META": {
     "VERSION": "2.0",
     "TYPE": "VIP_LICENSE_SYSTEM",
@@ -688,15 +886,14 @@
     },
     "NOTE": "Enhanced security v2.0 - SIM switching bypass fixed"
   },
-  
   "STATS": {
     "total_keys": 50,
-    "available_keys": 50,
-    "active_keys": 0,
+    "available_keys": 49,
+    "active_keys": 1,
     "banned_keys": 0,
     "expired_keys": 0,
-    "registered_devices": 0,
-    "last_updated": null,
-    "update_count": 0
+    "registered_devices": 1,
+    "last_updated": 1765335182,
+    "update_count": 1
   }
 }
