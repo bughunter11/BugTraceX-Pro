@@ -22,9 +22,9 @@
       "last_network": "9cf6360a42b00c00",
       "block_attempts": [
         {
-          "timestamp": 1765355389,
+          "timestamp": 1765355419,
           "device": "4413531AE8FC",
-          "network": "16a44084aaa08963",
+          "network": "52f0f3bfeed119c1",
           "action": "BLOCKED_REACTIVATION"
         }
       ]
