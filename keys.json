@@ -10,10 +10,10 @@
       },
       "activated_at": 1765358597,
       "activated_date": null,
-      "last_used": 1765358996,
+      "last_used": 1765359801,
       "last_used_date": null,
-      "use_count": 3,
-      "network_fp": "3c2eba53d1d37c23"
+      "use_count": 4,
+      "network_fp": "84da22afee6435b1"
     },
     "VIP2-SS5M-0BG8-MB-KL6": {
       "status": "ACTIVE",
@@ -758,7 +758,7 @@
     "banned_keys": 0,
     "expired_keys": 0,
     "registered_devices": 0,
-    "last_updated": 1765358996,
+    "last_updated": 1765359801,
     "last_updated_date": null,
     "update_count": 0
   }
