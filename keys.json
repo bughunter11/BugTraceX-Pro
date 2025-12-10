@@ -1,7 +1,7 @@
 {
   "keys": {
     "VIP1-W4I0-FZJP-FZ-376": {
-      "status": "BANNED",
+      "status": "ACTIVE",
       "device": "4413531AE8FCFCF2406D",
       "expiry": {
         "day": 0,
@@ -10,9 +10,9 @@
       },
       "activated_at": 1765349576,
       "activated_date": null,
-      "last_used": 1765350121,
+      "last_used": 1765350168,
       "use_count": 4,
-      "network_fp": "88eaeb03a4b7fada",
+      "network_fp": "914267b60ad3582f",
       "ban_reason": null,
       "expired_at": null,
       "expired_date": null,
@@ -894,7 +894,7 @@
     "banned_keys": 0,
     "expired_keys": 0,
     "registered_devices": 0,
-    "last_updated": 1765350121,
+    "last_updated": 1765350168,
     "update_count": 4
   }
 }
