@@ -8,11 +8,11 @@
         "minute": 0,
         "hour": 0
       },
-      "activated_at": 1765348252,
+      "activated_at": 1765348323,
       "activated_date": null,
-      "last_used": 1765348252,
+      "last_used": 1765348323,
       "use_count": 1,
-      "network_fp": "d3b99bcf3cd8a2f0",
+      "network_fp": "d8bb78eb26d7d4ac",
       "ban_reason": null,
       "expired_at": null,
       "expired_date": null
@@ -893,7 +893,7 @@
     "banned_keys": 0,
     "expired_keys": 0,
     "registered_devices": 0,
-    "last_updated": 1765348252,
+    "last_updated": 1765348323,
     "update_count": 1
   }
 }
