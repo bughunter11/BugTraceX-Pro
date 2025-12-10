@@ -19,7 +19,15 @@
         },
         "confidence": 1.0
       },
-      "last_network": "9cf6360a42b00c00"
+      "last_network": "9cf6360a42b00c00",
+      "block_attempts": [
+        {
+          "timestamp": 1765355389,
+          "device": "4413531AE8FC",
+          "network": "16a44084aaa08963",
+          "action": "BLOCKED_REACTIVATION"
+        }
+      ]
     },
     "VIP2-SS5M-0BG8-MB-KL6": {
       "status": "ACTIVE",
