@@ -2,17 +2,17 @@
   "keys": {
     "VIP1-W4I0-FZJP-FZ-376": {
       "status": "ACTIVE",
-      "device": "NONE",
+      "device": "4413531AE8FCFCF2406D",
       "expiry": {
         "day": 0,
         "hour": 0,
         "minute": 0
       },
-      "activated_at": 1765358597,
+      "activated_at": 1765362188,
       "activated_date": null,
-      "last_used": 1765361161,
+      "last_used": 1765362188,
       "last_used_date": null,
-      "use_count": 6,
+      "use_count": 7,
       "network_fp": "92747d327d219eef"
     },
     "VIP2-SS5M-0BG8-MB-KL6": {
@@ -758,7 +758,7 @@
     "banned_keys": 0,
     "expired_keys": 0,
     "registered_devices": 0,
-    "last_updated": 1765361161,
+    "last_updated": 1765362188,
     "last_updated_date": null,
     "update_count": 0
   }
