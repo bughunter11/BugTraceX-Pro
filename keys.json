@@ -9,13 +9,13 @@
         "minute": 0
       },
       "activated_at": 1765351555,
-      "last_used": 1765354257,
-      "use_count": 6,
-      "network_fp": "f48e85a5914ddde1",
+      "last_used": 1765354310,
+      "use_count": 7,
+      "network_fp": "c4c53137f50a7ad2",
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -29,9 +29,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -45,9 +45,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -61,9 +61,9 @@
         "minute": 30
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -77,9 +77,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -93,9 +93,9 @@
         "minute": 60
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -109,9 +109,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -125,9 +125,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -141,9 +141,9 @@
         "minute": 15
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -157,9 +157,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -173,9 +173,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -189,9 +189,9 @@
         "minute": 20
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -205,9 +205,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -221,9 +221,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -237,9 +237,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -253,9 +253,9 @@
         "minute": 45
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -269,9 +269,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -285,9 +285,9 @@
         "minute": 90
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -301,9 +301,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -317,9 +317,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -333,9 +333,9 @@
         "minute": 25
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -349,9 +349,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -365,9 +365,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -381,9 +381,9 @@
         "minute": 35
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -397,9 +397,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -413,9 +413,9 @@
         "minute": 120
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -429,9 +429,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -445,9 +445,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -461,9 +461,9 @@
         "minute": 40
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -477,9 +477,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -493,9 +493,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -509,9 +509,9 @@
         "minute": 50
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -525,9 +525,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -541,9 +541,9 @@
         "minute": 180
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -557,9 +557,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -573,9 +573,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -589,9 +589,9 @@
         "minute": 55
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -605,9 +605,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -621,9 +621,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -637,9 +637,9 @@
         "minute": 10
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -653,9 +653,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -669,9 +669,9 @@
         "minute": 240
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -685,9 +685,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -701,9 +701,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -717,9 +717,9 @@
         "minute": 5
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -733,9 +733,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -749,9 +749,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -765,9 +765,9 @@
         "minute": 70
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -781,9 +781,9 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
@@ -797,15 +797,15 @@
         "minute": 0
       },
       "_consensus": {
-        "total_sources": 5,
+        "total_sources": 4,
         "status_counts": {
-          "ACTIVE": 5
+          "ACTIVE": 4
         },
         "confidence": 1.0
       }
     }
   },
   "STATS": {
-    "last_updated": 1765354257
+    "last_updated": 1765354310
   }
 }
