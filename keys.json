@@ -2,19 +2,15 @@
   "keys": {
     "BTX_DI2L5G9VSE": {
       "status": "ACTIVE",
-      "updated": "2025-12-11T15:22:02.770088"
+      "updated": "2025-12-11T15:29:22.034731"
     },
     "BTX_DN9RVQ6RE2": {
       "status": "BANNED",
-      "updated": "2025-12-11T15:22:02.770205"
-    },
-    "BTX_VDQV45VXP0": {
-      "status": "BANNED",
-      "updated": "2025-12-11T15:22:02.770248"
+      "updated": "2025-12-11T15:29:22.034863"
     },
     "BTX_YLC806F7FI": {
       "status": "ACTIVE",
-      "updated": "2025-12-11T15:22:02.770291"
+      "updated": "2025-12-11T15:29:22.034911"
     }
   }
 }
