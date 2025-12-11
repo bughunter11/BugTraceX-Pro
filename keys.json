@@ -2,7 +2,9 @@
   "keys": {
     "BTX_DI2L5G9VSE": {
       "status": "ACTIVE",
-      "updated": "2025-12-11T11:24:11.115077"
+      "updated": "2025-12-11T11:24:11.115077",
+      "device": "AID_CDEB6D482DEC",
+      "activated_at": 1765433901
     },
     "BTX_DN9RVQ6RE2": {
       "status": "BANNED",
