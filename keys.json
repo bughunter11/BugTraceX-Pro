@@ -2,15 +2,15 @@
   "keys": {
     "BTX_8G7Y7Q4841": {
       "status": "ACTIVE",
-      "updated": "2025-12-16T11:09:29.789006"
+      "updated": "2025-12-16T11:09:44.720090"
     },
     "BTX_PZ3IK954BA": {
-      "status": "ACTIVE",
-      "updated": "2025-12-16T11:09:29.789024"
+      "status": "EXPIRED",
+      "updated": "2025-12-16T11:09:44.720154"
     },
     "BTX_39MRRUEEDS": {
       "status": "ACTIVE",
-      "updated": "2025-12-16T11:09:29.789027"
+      "updated": "2025-12-16T11:09:44.720169"
     }
   }
 }
