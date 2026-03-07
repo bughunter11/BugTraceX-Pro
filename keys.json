@@ -1,16 +1,3 @@
 {
-  "keys": {
-    "BTX_8G7Y7Q4841": {
-      "status": "BANNED",
-      "updated": "2026-01-13T20:17:11.628168"
-    },
-    "BTX_PZ3IK954BA": {
-      "status": "BANNED",
-      "updated": "2026-01-13T20:17:11.628204"
-    },
-    "BTX_EMOUY8VWX9": {
-      "status": "ACTIVE",
-      "updated": "2026-01-13T20:17:11.628207"
-    }
-  }
+  "keys": {}
 }
