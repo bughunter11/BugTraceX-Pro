@@ -2,11 +2,15 @@
   "keys": {
     "BTX_4XJF1G4Z86": {
       "status": "BANNED",
-      "updated": "2026-07-02T17:05:55.292600"
+      "updated": "2026-07-02T17:06:23.849810"
     },
     "BTX_KVT0EO53UO": {
       "status": "ACTIVE",
-      "updated": "2026-07-02T17:05:55.292623"
+      "updated": "2026-07-02T17:06:23.849859"
+    },
+    "BTX_ADC5E6W9W2": {
+      "status": "ACTIVE",
+      "updated": "2026-07-02T17:06:23.849872"
     }
   }
 }
